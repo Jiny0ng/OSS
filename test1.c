@@ -1,9 +1,10 @@
-#include <stdio.h>
+#iclude <stdio.h>
 
-void main(){
-	
-	printf("Hello OpenSource");
-	printf("\n It's fixed file")
-	printf("\nit's  return ro main branch");
-	return 0;
+int main(){
+
+    printf("Hello Opensource");
+    printf("\n 1차 수정");
+    printf("\n master 추가 수정");
+
+    return 0;
 }
